@@ -1,0 +1,79 @@
+html,body{
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+  min-width:260px;
+  color: #edd5e7;
+  background-color: #c5ded3;
+}
+
+#title{
+  font-family: 'Ubuntu Mono', monospace;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#main{
+  max-width:1000px;
+  margin:30px auto;
+  padding:15px;
+  border:0px solid;
+  border-radius:20px;
+  background:#94378f;
+}
+img{
+  height: auto;
+  max-width: 100%;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: -5px;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  border:5px solid #ebcce7;
+  background: #582180;
+}
+#img-caption{
+  margin-bottom: 45px;
+  width: 960px;
+  padding: 20px;
+  background-color: #edd5e7;
+  color: #b479b5;
+}
+#title{
+  padding: 10px;
+  background-color: #edd5e7;
+  color:#b479b5;
+  font-style: italics;
+}
+#list-accomplish{
+  text-align: center;
+}
+ul {
+  text-align: left;
+  line-height: 200%;
+  li {
+    text-align: center;
+    display: block;
+    padding: auto auto;
+    border:0px solid;
+    border-radius:20px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
+}
+.link{
+  color: #ebcce7;
+}
+footer{
+  font-family:  monospace;
+}
+#learn-more{
+  font-weight: bold;
+  font-style: italic;
+}
+
